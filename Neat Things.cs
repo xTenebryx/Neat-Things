@@ -1,0 +1,12 @@
+using UnityEngine;
+using GadgetCore.API;
+using GadgetCore;
+
+namespace NeatThings
+{
+    public static class NeatThings 
+    {
+        public const string MOD_VERSION = "0.1"; // Set this to the version of your mod.
+        public const string CONFIG_VERSION = "0.1"; // Increment this whenever you change your mod's config file.
+    }
+}
